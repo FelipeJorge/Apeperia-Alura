@@ -2,5 +2,6 @@
 Mobilie-First
 
 - Projeto de estudo Alura
-  Utilizando o conceito de Mobile First para desenvovimento web
-  Responsividade web
+- Utilizando o conceito de Mobile First e responsividade para desenvolvimento web 
+- Disponível em: https://mobile-first-apeperia.netlify.app/
+  
